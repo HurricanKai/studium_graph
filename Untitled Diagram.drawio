@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" modified="2023-08-15T14:05:44.395Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="XyXrMW-oyi5XTNOTAWTY" version="21.6.8" type="github">
+  <diagram name="Page-1" id="cXineNc4_BZdnzWpEffi">
+    <mxGraphModel dx="3521" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Fn3V1fCJzD25pgynjRuv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Fn3V1fCJzD25pgynjRuv-1" target="Fn3V1fCJzD25pgynjRuv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn3V1fCJzD25pgynjRuv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Fn3V1fCJzD25pgynjRuv-1" target="Fn3V1fCJzD25pgynjRuv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn3V1fCJzD25pgynjRuv-1" value="Orientierungspruefung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="780" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn3V1fCJzD25pgynjRuv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Fn3V1fCJzD25pgynjRuv-2" target="Fn3V1fCJzD25pgynjRuv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn3V1fCJzD25pgynjRuv-2" value="Theoretische Informatik &amp;gt; Grundbegriffe" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn3V1fCJzD25pgynjRuv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fn3V1fCJzD25pgynjRuv-4" target="Fn3V1fCJzD25pgynjRuv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn3V1fCJzD25pgynjRuv-4" value="Praktische Informatik &amp;gt; Programmieren" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="305" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn3V1fCJzD25pgynjRuv-6" value="Grundbegriffe Uebungschein" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn3V1fCJzD25pgynjRuv-7" value="Programmieren Uebungschein" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="380" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn3V1fCJzD25pgynjRuv-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="840" as="sourcePoint" />
+            <mxPoint x="760" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fn3V1fCJzD25pgynjRuv-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Fn3V1fCJzD25pgynjRuv-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="940" as="sourcePoint" />
+            <mxPoint x="270" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fn3V1fCJzD25pgynjRuv-14" value="Drittes Fachsemester" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry y="850" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn3V1fCJzD25pgynjRuv-16" value="Wintersemester Only" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn3V1fCJzD25pgynjRuv-17" value="Jedes Semester" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn3V1fCJzD25pgynjRuv-18" value="Sommersemester Only" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
